@@ -355,5 +355,6 @@ Code is released under the MIT license (`LICENSE`); derived tables and result fi
 CC BY 4.0. If you use this archive, please cite the article and this record — metadata are in
 `CITATION.cff`.
 
-**DOI:** [10.5281/zenodo.23906302](https://doi.org/10.5281/zenodo.23906302)
+**DOI:**&#8203; [10.5281/zenodo.23906301](https://doi.org/10.5281/zenodo.23906301) (concept DOI, resolves to the latest version; this release: [10.5281/zenodo.24187660](https://doi.org/10.5281/zenodo.24187660))
+
 **Code repository:** [github.com/JunzhongWang/WJZ20261103-infant-gut-microbiome](https://github.com/JunzhongWang/WJZ20261103-infant-gut-microbiome)
